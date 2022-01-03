@@ -1,0 +1,10 @@
+.bodybg{
+ -fx-background-image: url('backgroundTest.jpg');
+ -fx-background-size: 100% 100%;
+}
+.panebg{
+ -fx-background-color: #ffffff;
+}
+.progressbarbg{
+ -fx-accent: red;
+}
